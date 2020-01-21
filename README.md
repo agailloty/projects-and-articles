@@ -1,2 +1,3 @@
-# python-econometrics
-This repository is created to host projects that I create on Azure notebook
+This repository is intended to host some projects, articles and codes I publish on my portfolio site.
+
+## https://agailloty.rbind.io
